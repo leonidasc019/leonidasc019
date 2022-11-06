@@ -15,4 +15,4 @@
     <img align="center" alt ="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div><br/>
 
-Apaixonado pela tecnologia. Cada dia se desafiando em busca da constante evolução e aprendizado.
+Apaixonado pela tecnologia. Cada dia se desafiando em busca de constante evolução e aprendizado.
